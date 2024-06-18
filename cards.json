@@ -1,0 +1,427 @@
+[
+  {
+    "Name": "Markets",
+    "Cards": [
+      {
+        "Name": "Fan tokens",
+        "Coin": 1598406,
+        "Profit": 2280
+      },
+      {
+        "Name": "Staking",
+        "Coin": 1163040,
+        "Profit": 1540
+      },
+      {
+        "Name": "BTC pairs",
+        "Coin": 415636,
+        "Profit": 118
+      },
+      {
+        "Name": "ETH pairs",
+        "Coin": 217609,
+        "Profit": 110
+      },
+      {
+        "Name": "Top 10 cmc pairs",
+        "Coin": 159841,
+        "Profit": 193
+      },
+      {
+        "Name": "GameFi tokens",
+        "Coin": 362681,
+        "Profit": 193
+      },
+      {
+        "Name": "Defi2.0 tokens",
+        "Coin": 831273,
+        "Profit": 118
+      },
+      {
+        "Name": "Meme coins",
+        "Coin": 664594,
+        "Profit": 284
+      },
+      {
+        "Name": "Shit coins",
+        "Coin": 1661486,
+        "Profit": 1520
+      },
+      {
+        "Name": "Margin trading x10",
+        "Coin": 201826,
+        "Profit": 619
+      },
+      {
+        "Name": "Margin trading x20",
+        "Coin": 830743,
+        "Profit": 902
+      },
+      {
+        "Name": "Margin trading x30",
+        "Coin": 2538770,
+        "Profit": 1380
+      },
+      {
+        "Name": "Margin trading x50",
+        "Coin": 7253630,
+        "Profit": 3003
+      },
+      {
+        "Name": "Margin trading x75",
+        "Coin": 1198805,
+        "Profit": 2650
+      },
+      {
+        "Name": "Margin trading x100",
+        "Coin": 799203,
+        "Profit": 2350
+      },
+      {
+        "Name": "Derivatives",
+        "Coin": 4156363,
+        "Profit": 1460
+      },
+      {
+        "Name": "Prediction markets",
+        "Coin": 7001948,
+        "Profit": 1090
+      },
+      {
+        "Name": "Web3 integration",
+        "Coin": 2159931,
+        "Profit": 2030
+      },
+      {
+        "Name": "DAO",
+        "Coin": 725363,
+        "Profit": 635
+      },
+      {
+        "Name": "P2P trading",
+        "Coin": 1395648,
+        "Profit": 1000
+      },
+      {
+        "Name": "Trading bots",
+        "Coin": 1523262,
+        "Profit": 538
+      }
+    ]
+  },
+  {
+    "Name": "PR&Team",
+    "Cards": [
+      {
+        "Name": "Support team",
+        "Coin": 119880,
+        "Profit": 169
+      },
+      {
+        "Name": "HamsterBook",
+        "Coin": 166149,
+        "Profit": 180
+      },
+      {
+        "Name": "X",
+        "Coin": 182763,
+        "Profit": 206
+      },
+      {
+        "Name": "Cointelegraph",
+        "Coin": 116304,
+        "Profit": 103
+      },
+      {
+        "Name": "HamsterTube",
+        "Coin": 435218,
+        "Profit": 248
+      },
+      {
+        "Name": "HamsterGram",
+        "Coin": 362681,
+        "Profit": 138
+      },
+      {
+        "Name": "TikTok",
+        "Coin": 119880,
+        "Profit": 241
+      },
+      {
+        "Name": "Coindesk",
+        "Coin": 159841,
+        "Profit": 193
+      },
+      {
+        "Name": "Influncers",
+        "Coin": 399602,
+        "Profit": 651
+      },
+      {
+        "Name": "CEO",
+        "Coin": 159841,
+        "Profit": 241
+      },
+      {
+        "Name": "IT team",
+        "Coin": 1450726,
+        "Profit": 662
+      },
+      {
+        "Name": "Marketing",
+        "Coin": 159841,
+        "Profit": 169
+      },
+      {
+        "Name": "Partnership program",
+        "Coin": 166149,
+        "Profit": 180
+      },
+      {
+        "Name": "Product team",
+        "Coin": 332297,
+        "Profit": 258
+      },
+      {
+        "Name": "BisDev team",
+        "Coin": 166149,
+        "Profit": 129
+      },
+      {
+        "Name": "Two factor authentication",
+        "Coin": 332297,
+        "Profit": 322
+      },
+      {
+        "Name": "UX and UI team",
+        "Coin": 551276,
+        "Profit": 483
+      },
+      {
+        "Name": "Security team",
+        "Coin": 725363,
+        "Profit": 552
+      },
+      {
+        "Name": "QA team",
+        "Coin": 203797,
+        "Profit": 458
+      },
+      {
+        "Name": "Antihacking shield",
+        "Coin": 161461,
+        "Profit": 248
+      },
+      {
+        "Name": "Risk management team",
+        "Coin": 664594,
+        "Profit": 683
+      },
+      {
+        "Name": "Security Audition",
+        "Coin": 128439,
+        "Profit": 210
+      },
+      {
+        "Name": "Anonymous transactions ban",
+        "Coin": 652827,
+        "Profit": 828
+      },
+      {
+        "Name": "Blocking suspicious accounts",
+        "Coin": 199801,
+        "Profit": 386
+      },
+      {
+        "Name": "Tokenomics expert",
+        "Coin": 403652,
+        "Profit": 1120
+      },
+      {
+        "Name": "Consensus Explorer pass",
+        "Coin": 2018259,
+        "Profit": 3370
+      },
+      {
+        "Name": "VC Labs",
+        "Coin": 663602,
+        "Profit": 1050
+      },
+      {
+        "Name": "Compliance officer",
+        "Coin": 149846,
+        "Profit": 253
+      },
+      {
+        "Name": "Welcome to Amsterdam",
+        "Coin": 479522,
+        "Profit": 783
+      }
+    ]
+  },
+  {
+    "Name": "Legal",
+    "Cards": [
+      {
+        "Name": "KYC",
+        "Coin": 166255,
+        "Profit": 30
+      },
+      {
+        "Name": "KYB",
+        "Coin": 362681,
+        "Profit": 166
+      },
+      {
+        "Name": "Legal opinion",
+        "Coin": 159841,
+        "Profit": 145
+      },
+      {
+        "Name": "SEC transparancy",
+        "Coin": 191809,
+        "Profit": 145
+      },
+      {
+        "Name": "Anti money loundering",
+        "Coin": 242191,
+        "Profit": 631
+      },
+      {
+        "Name": "Licence UAE",
+        "Coin": 3626815,
+        "Profit": 1540
+      },
+      {
+        "Name": "Licence Europe",
+        "Coin": 1661486,
+        "Profit": 1850
+      },
+      {
+        "Name": "Licence Asia",
+        "Coin": 403652,
+        "Profit": 833
+      },
+      {
+        "Name": "Licence South America",
+        "Coin": 403652,
+        "Profit": 878
+      },
+      {
+        "Name": "Licence Australia",
+        "Coin": 1661486,
+        "Profit": 1750
+      },
+      {
+        "Name": "Licence North America",
+        "Coin": 1598406,
+        "Profit": 2310
+      },
+      {
+        "Name": "Licence North Nigeria",
+        "Coin": 498446,
+        "Profit": 438
+      },
+      {
+        "Name": "Licence Japan",
+        "Coin": 2140652,
+        "Profit": 5470
+      },
+      {
+        "Name": "Licence Ethiopia",
+        "Coin": 1498456,
+        "Profit": 3780
+      },
+      {
+        "Name": "Licence India",
+        "Coin": 69810,
+        "Profit": 3060
+      }
+    ]
+  },
+  {
+    "Name": "Specials",
+    "Cards": [
+      {
+        "Name": "Premarket launch",
+        "Coin": 5516015,
+        "Profit": 12040
+      },
+      {
+        "Name": "Hamster Kombat merch",
+        "Coin": 71520,
+        "Profit": 197
+      },
+      {
+        "Name": "TON + Hamster Kombat = Success",
+        "Coin": 2653298,
+        "Profit": 7001
+      },
+      {
+        "Name": "Consensus Prianha Pass",
+        "Coin": 1191995,
+        "Profit": 3730
+      },
+      {
+        "Name": "Web3 academy launch",
+        "Coin": 3655268,
+        "Profit": 3860
+      },
+      {
+        "Name": "YouTube Gold Button",
+        "Coin": 1813407,
+        "Profit": 759
+      },
+      {
+        "Name": "Hamster Youtube Channel",
+        "Coin": 1088044,
+        "Profit": 690
+      },
+      {
+        "Name": "Bitcoin Pizza Day",
+        "Coin": 725363,
+        "Profit": 276
+      },
+      {
+        "Name": "Top 10 Global Ranking",
+        "Coin": 3322971,
+        "Profit": 276
+      },
+      {
+        "Name": "NFT Collection Launch",
+        "Coin": 1372416,
+        "Profit": 2700
+      },
+      {
+        "Name": "Special hamster Conference",
+        "Coin": 1661486,
+        "Profit": 2320
+      },
+      {
+        "Name": "Short squeeze",
+        "Coin": 2825563,
+        "Profit": 2250
+      },
+      {
+        "Name": "There are two chairs...",
+        "Coin": 2140652,
+        "Profit": 4210
+      },
+      {
+        "Name": "App Center Listing",
+        "Coin": 2397609,
+        "Profit": 2410
+      },
+      {
+        "Name": "Bogdanoff is calling",
+        "Coin": 1661486,
+        "Profit": 1220
+      },
+      {
+        "Name": "USDT on TON",
+        "Coin": 3322971,
+        "Profit": 3480
+      }
+    ]
+  }
+]
